@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m a passionate **Full-Stack Developer** with 3 years of experience building **scalable web and mobile applications**.  
+I’m a passionate **Full-Stack Developer** with 3 years of experience building **scalable web Applications**.  
 I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and also work with **Next.js, TypeScript, and PostgreSQL**.  
 
 - 🔭 Currently working on **Next.js + AI projects**  
