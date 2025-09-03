@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahzad Khan</h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack | Open Source Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 👨‍💻 About Me  
@@ -26,19 +22,6 @@ I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and 
 **Databases:** MongoDB, PostgreSQL, Sequelize  
 **DevOps & Tools:** Docker, GitHub Actions, Firebase, Cloudinary, Vercel, Netlify  
 **Other Skills:** Authentication (JWT, bcrypt), System Design, WordPress  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak stats"/>
-</p>
 
 ---
 
