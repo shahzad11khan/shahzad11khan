@@ -1,51 +1,78 @@
-Hi there 👋, I'm Shahzad Khan
-🚀 Full-Stack Developer | MERN Stack | Open Source Enthusiast
-👨‍💻 About Me
+<h1 align="center">Hi 👋, I'm Shahzad Khan</h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Open Source Enthusiast</h3>
 
-I’m a passionate Full-Stack Developer with more than 3 years of hands-on experience in building scalable, high-performance web and mobile applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js), while also working extensively with Next.js, TypeScript, and PostgreSQL. My work is driven by a love for clean code, problem-solving, and delivering solutions that truly make an impact.
+---
 
-I have developed everything from real-time chat systems and secure backend APIs to enterprise dashboards and AI-powered applications. My approach focuses on scalability, performance optimization, and security.
+## 👨‍💻 About Me  
 
-🛠️ Tech Stack
+I’m a passionate **Full-Stack Developer** with 2+ years of experience building **scalable web and mobile applications**.  
+I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and also work with **Next.js, TypeScript, and PostgreSQL**.  
 
-Frontend: React.js, Next.js, Redux, Context API, Tailwind CSS, Bootstrap, SCSS
-Backend: Node.js, Express.js, Nest.js, REST APIs, WebSockets (Socket.IO)
-Databases: MongoDB, Mongoose, PostgreSQL, Sequelize
-DevOps & Tools: Docker, GitHub Actions, Firebase Notifications, Cloudinary, Vercel, Netlify
-Other Skills: Authentication & Security (JWT, bcrypt, middleware), WordPress, Google Sites, System Design & Architecture
+- 🔭 Currently working on **Next.js + AI projects**  
+- 🌱 Learning **Cloud computing & advanced TypeScript**  
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB**  
+- ⚡ Fun fact: I love solving problems & creating clean, scalable systems  
 
-🚀 Project Highlights
+---
 
-💬 Real-Time Chat Application – Built with MERN + Socket.IO, featuring group/private chat, emojis, and file sharing.
+## 🛠️ Tech Stack  
 
-📚 Pharmapedia – Comprehensive medicine platform with CRUD operations, email verification, and Cloudinary integration.
+**Frontend:** React.js, Next.js, Redux, Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, Nest.js, REST APIs, Socket.IO  
+**Databases:** MongoDB, PostgreSQL, Sequelize  
+**DevOps & Tools:** Docker, GitHub Actions, Firebase, Cloudinary, Vercel, Netlify  
+**Other Skills:** Authentication (JWT, bcrypt), System Design, WordPress  
 
-🛠️ Vehicle Management System – Admin & Superadmin dashboards with Next.js + Tailwind CSS.
+---
 
-🌐 AI Booking Platform – Generative AI-powered booking system using Next.js + Gemini API.
+## 📊 GitHub Stats  
 
-📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180px"/>
+</p>
 
-🔭 Active contributor to open-source and private projects.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak stats"/>
+</p>
 
-📈 Experienced in designing secure, scalable systems.
+---
 
-⚡ Always experimenting with modern JavaScript, TypeScript, and cloud technologies.
+## 🚀 Featured Projects  
 
-🌱 Currently Exploring
+- 💬 **Real-Time Chat Application** – MERN + Socket.IO with group/private chat, emojis, and file sharing.  
+- 📚 **Pharmapedia** – Medicine platform with CRUD operations, email verification & Cloudinary integration.  
+- 🛠️ **Vehicle Management System** – Next.js + Tailwind CSS dashboards with admin & superadmin panels.  
+- 🌐 **AI Booking App** – Generative AI-powered booking system built with Next.js + Gemini API.  
 
-Advanced TypeScript patterns
+---
 
-Serverless architecture & cloud-native apps
+## 🌱 Currently Exploring  
 
-AI-powered SaaS products using Next.js and APIs
+- Advanced TypeScript patterns  
+- Serverless & Cloud-native applications  
+- AI-powered SaaS with Next.js  
 
-🤝 Let’s Connect
+---
 
-🌐 Portfolio: shahzadkhan.dev
+## 🤝 Connect with Me  
 
-💼 LinkedIn: linkedin.com/in/shahzad-khan
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://YOUR_PORTFOLIO" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-📧 Email: **shahzadkhan311666@example.com
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
