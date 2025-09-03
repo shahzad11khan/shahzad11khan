@@ -24,6 +24,39 @@ I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and 
 **Other Skills:** Authentication (JWT, bcrypt), System Design, WordPress  
 
 ---
+## 🛠️ Tech Stack  
+
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=rest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"/>
+</p>
+
+### ☁️ DevOps & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,firebase,cloudinary,vercel,netlify" />
+</p>
+
+### 🔐 Other Skills  
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+  <img src="https://img.shields.io/badge/Bcrypt-00BFFF?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-0078D7?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+---
 
 ## 🚀 Featured Projects  
 
@@ -58,4 +91,3 @@ I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and 
 
 ---
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
