@@ -54,7 +54,6 @@ I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and 
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
   <img src="https://img.shields.io/badge/Bcrypt-00BFFF?style=for-the-badge&logo=security&logoColor=white"/>
   <img src="https://img.shields.io/badge/System%20Design-0078D7?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=wordpress" />
 </p>
 ---
 
