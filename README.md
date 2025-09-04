@@ -24,35 +24,6 @@ I specialize in the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and 
 **Other Skills:** Authentication (JWT, bcrypt), System Design, WordPress  
 
 ---
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" height="180em" />
-</p>
-
----
-
-## 📦 Languages Breakdown (Live Tracker)  
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=radical" height="180em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical&utcOffset=+5" height="180em"/>
-</p>
-
 ## 🛠️ Tech Stack  
 
 ### 🎨 Frontend  
